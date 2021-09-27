@@ -1,0 +1,100 @@
+*{
+  font-family: 'Noto Sans KR', sans-serif;
+  list-style: none;
+  text-decoration: none;
+  
+  margin:0px;
+  padding: 0px;
+  color: #000;
+}
+<a href="https://imgur.com/PnoiRZA"><img src="https://i.imgur.com/PnoiRZA.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/S3F9yqV"><img src="https://i.imgur.com/S3F9yqV.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/lLHkNBM"><img src="https://i.imgur.com/lLHkNBM.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/jMHLRDi"><img src="https://i.imgur.com/jMHLRDi.png" title="source: imgur.com" /></a>
+
+.헤더{
+  background-image: url("2.png");
+  width: 100%;
+  height: 608px;
+}
+
+.기본정보{
+  position: relative;
+  top:-66px;
+  display: flex;
+  width:867px;
+  height: 137px;
+  background: #FFFFFF;
+  margin: auto;
+}
+.기본정보 > li {
+  flex: 1;
+  height: 132px;
+}
+.기본정보 > li > div {
+  text-align: center;
+  margin-top:37px;
+  height:57px;
+}
+
+
+.텍스트_작은 {font-size: 18px; color: #646464;}
+.텍스트_보통 {font-size: 23px;}
+
+
+.평가 {
+        width: 100%;
+        height:600px;
+        margin-top:-136px;
+        background: #EDEDED;}
+.평가 img {
+        position: absolute;
+        width: 1000px;
+        top: 850px;
+        left: 450px;}        
+
+.포스터 {
+        position: relative;
+        top: 200px;
+        left: 200px;
+        width: 400px; height:200px;
+        
+        }
+.명대사1 {
+        text-align: center;
+        font-size: 50px;
+        margin-top: 300px;
+        margin-left: 400px;}
+.내용 {
+        text-align: left;
+        font-size: 22px;
+        margin-top: 220px;
+        margin-left: 900px;
+        line-height: 50px;}  
+
+.점 {text-align: center;
+     margin-top: 400px;}
+.점2 {text-align: center;}     
+
+.내용2 {
+        text-align: center;
+        font-size: 22px;
+        line-height: 50px;
+        margin-top: 200px;
+        margin-right: 400px;
+        margin-bottom: 200px;
+        margin-left: 400px;}
+
+.이미지 {
+        background-image: url("1.png");
+        width: 100%;
+        margin-top: 300px;}
+
+.명대사2 {
+        text-align: center;
+        font-size: 30px;
+        margin-top: 180px;
+        margin-right: 300px;
+        margin-bottom: 200px;
+        margin-left: 300px; }
+
